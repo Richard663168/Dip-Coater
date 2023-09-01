@@ -21,7 +21,7 @@ Sections in this ReadMe:
 ## Materials  
 Links provided below are only for reference.  
 
-Electronic Components
+**Electronic Components**
 | Item | Quantity | Reference Price | Source |
 | ------------- | ------------- |------------- |------------- |
 | [Arduino Mega 2560](https://www.amazon.com/ARDUINO-MEGA-2560-REV3-A000067/dp/B0046AMGW0)| 1  | $20.99 for 1|Amazon |
@@ -29,7 +29,21 @@ Electronic Components
 | [Nema 17 Stepper Motor](https://www.amazon.com/dp/B07THK76QQ/ref=twister_B07ZVLYL25?_encoding=UTF8&psc=1)  |1  | $10.99 for 1|Amazon|
 | [2.1x5.5 12V Power Barrel](https://www.mcmaster.com/8320N117)  | 1 | $1.24 for 1|McMaster-Carr|
 |[ DM542T Stepper Motor Driver  ](https://www.amazon.com/dp/B06Y5VPSFN?psc=1&ref=ppx_yo2ov_dt_b_product_details)| 1 | $28.99 for 1|Amazon|
-| [DM320T Stepper Motor Driver](https://www.amazon.com/gp/product/B075R88FMN/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)  | $15.99 for 1  | Content Cell |Amazon |
+| [DM320T Stepper Motor Driver](https://www.amazon.com/gp/product/B075R88FMN/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)  |  1 | $15.99 for 1 |Amazon |
+| [3x4 Matrix Keypad](https://www.adafruit.com/product/3845) |  1 | $6.50 for 1 |Adafruit Industries |
+| [Screw Terminal Block Breakout Module for Arduino Mega](https://a.co/d/3ki64ex)  |  1 | $32.00 for 1 |Amazon |
+| [FUYU FSL30 Mini Linear Stage Small Slide](https://a.co/d/0F66fWm)  |  1 | $118.00 for 1 |Amazon |
+| [8-channel Bi-directional Logic Level Converter - TXB0108](https://www.adafruit.com/product/395?gclid=EAIaIQobChMIy_Wgl5aa-wIVg4zICh11Gg8HEAAYASAAEgIM5PD_BwE)|  1 | $7.95 for 1 |Adafruit Industries |
+| [12V Push Button](https://www.amazon.com/gp/product/B08ZN73P2N/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)  |  1 | $15.99 for 10 |Amazon |  
+
+**Other Materials**
+* 4 6mm 12" x 24" black acrylic sheets
+* Wires
+* Super glue
+* 1 USB cable
+* 1 2.1 x 5.5 12V power cable
+  
+Black acrylic sheets could be replaced by other 6mm-thick laser cuttable materials.
 ## 3D Printing Instructions
 3D printing files: Complete files are included in this current repository including .stl file format to be directly printable after slicing and .step file format to allow easy import and manipulation in most CAD software. All models were designed using Autodesk Fusion 360.
 
@@ -55,3 +69,8 @@ Laser Cutting files: Complete files are included in this current repository incl
 The labels on the designs are for illustration only. It is recommanded to delete those labels before laser cutting or the labels might be engraved onto the final product. For Epilog laser cutters, the widths of the lines for laser cutting need to be set to 0.001pt.  
 
 ## Circuit Design
+
+<p align="center">  
+<img src="https://github.com/Richard663168/Dip-Coater/assets/111383687/9f64b7ac-65f1-42dc-9353-559c79eef468" alt="dipcoater_ciruit" width="700">  
+  
+Breadboards shown in the circuit diagram are not required. It is recommanded to use solder or heat shrinking tubes to connect wires to electronic compoenents and other wires in order to secure the connections.
