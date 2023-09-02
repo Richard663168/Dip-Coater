@@ -66,7 +66,7 @@ Designs are printed out using the Stratasys Elite and Stratasys Mojo with a laye
 ## Laser Cutting Instructions
 Laser Cutting files: Complete files are included in this current repository including .ai file format and .svg file format. All models were designed using Adobe Illustrator. Designs are laser cut using Epilog mini and Epilog Fusion with 6mm 12"x24" black acrylic sheets.  
 
-The labels on the designs are for illustration only. It is recommanded to delete those labels before laser cutting or the labels might be engraved onto the final product. For Epilog laser cutters, the widths of the lines for laser cutting need to be set to 0.001pt.  
+The labels on the designs are for illustration only. It is recommanded to delete those labels before laser cutting or the labels might be engraved onto the final product. For Epilog laser cutters, the widths of the lines for laser cutting need to be set to 0.001pt and the area for engraving need to be filled with black.
 
 ## Circuit Design
 
@@ -74,3 +74,16 @@ The labels on the designs are for illustration only. It is recommanded to delete
 <img src="https://github.com/Richard663168/Dip-Coater/assets/111383687/9f64b7ac-65f1-42dc-9353-559c79eef468" alt="dipcoater_ciruit" width="700">  
   
 Breadboards shown in the circuit diagram are not required. It is recommanded to use solder or heat shrinking tubes to connect wires to electronic compoenents and other wires in order to secure the connections.
+
+## Assembly Instructions  
+The **Complete Dip Coater** CAD file could be used as a reference on how to assemble the dip coater.  
+1. Glue **Left Board** and **Right Board** onto **Base Board**; Note that the back of the three pieces should not align: there is a 6mm distance between the back of **Base Board** and the backs of both **Left Board** and **Right Board**.
+![Asset 1@12x 2](https://github.com/Richard663168/Dip-Coater/assets/111383687/3a995cbb-b424-4d5e-b67f-4e1e593d41d5)
+2. Use sandpaper or other sanding tools to make the edge of **Front Board** fit the base and screw in the **ST7789 2.4” SPI LCD**, 2 **12V push buttons**, and the **3 x 4 keypad**
+3. Glue the **Front Board** onto the base.
+![Asset 3@12x](https://github.com/Richard663168/Dip-Coater/assets/111383687/31587394-4859-4c5b-b44c-615c6bee8b8d)
+4.  Glue **Nema 17 Holder** onto the base and place the **Nema 17 motor** inside
+![Asset 4@12x](https://github.com/Richard663168/Dip-Coater/assets/111383687/795a16d0-ac1d-4f70-8613-9bbca7986a63)
+6. 
+
+
