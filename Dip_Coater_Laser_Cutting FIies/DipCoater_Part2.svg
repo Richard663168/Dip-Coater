@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1728 864" style="enable-background:new 0 0 1728 864;" xml:space="preserve">
+<style type="text/css">
+	.Drop_x0020_Shadow{fill:none;}
+	.Round_x0020_Corners_x0020_2_x0020_pt{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.Live_x0020_Reflect_x0020_X{fill:none;}
+	.Bevel_x0020_Soft{fill:url(#SVGID_1_);}
+	.Dusk{fill:#FFFFFF;}
+	.Foliage_GS{fill:#FFDD00;}
+	.Pompadour_GS{fill-rule:evenodd;clip-rule:evenodd;fill:#44ADE2;}
+	.st0{fill:none;stroke:#000000;stroke-width:1.000000e-03;stroke-miterlimit:10;}
+	.st1{font-family:'Arial-Black';}
+	.st2{font-size:21px;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0.7071" y2="0.7071">
+	<stop  offset="0" style="stop-color:#DEDFE3"/>
+	<stop  offset="0.1738" style="stop-color:#D8D9DD"/>
+	<stop  offset="0.352" style="stop-color:#C9CACD"/>
+	<stop  offset="0.5323" style="stop-color:#B4B5B8"/>
+	<stop  offset="0.7139" style="stop-color:#989A9C"/>
+	<stop  offset="0.8949" style="stop-color:#797C7E"/>
+	<stop  offset="1" style="stop-color:#656B6C"/>
+</linearGradient>
+<rect x="1048.8" y="14.2" class="st0" width="187.1" height="657.6"/>
+<line class="st0" x1="14.2" y1="232.4" x2="813.9" y2="232.4"/>
+<line class="st0" x1="14.2" y1="232.4" x2="14.2" y2="436.5"/>
+<line class="st0" x1="14.2" y1="436.5" x2="927.3" y2="436.5"/>
+<line class="st0" x1="813.9" y1="232.4" x2="927.3" y2="436.5"/>
+<rect x="141.7" y="409.6" class="st0" width="48.2" height="26.9"/>
+<circle class="st0" cx="269.3" cy="396.9" r="14.2"/>
+<rect x="14.2" y="467.7" class="st0" width="898.6" height="170.1"/>
+<rect x="14.2" y="666.1" class="st0" width="898.6" height="170.1"/>
+<line class="st0" x1="14.2" y1="14.2" x2="813.9" y2="14.2"/>
+<line class="st0" x1="14.2" y1="14.2" x2="14.2" y2="218.3"/>
+<line class="st0" x1="813.9" y1="14.2" x2="927.3" y2="218.3"/>
+<line class="st0" x1="14.2" y1="218.3" x2="927.3" y2="218.3"/>
+<text transform="matrix(1 0 0 1 52.4411 188.507)" class="st1 st2">Left Board</text>
+<text transform="matrix(1 0 0 1 52.4408 618.5226)" class="st1 st2">Top Left Board </text>
+<text transform="matrix(1 0 0 1 53.9737 275.2275)" class="st1 st2">Right Board</text>
+<text transform="matrix(1 0 0 1 52.9239 712.0814)" class="st1 st2">Top Right Board</text>
+<text transform="matrix(6.123234e-17 1 -1 6.123234e-17 1075.043 34.1389)" class="st1 st2">Top Board</text>
+</svg>
