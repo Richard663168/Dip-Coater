@@ -1,0 +1,135 @@
+{
+  "/Position": {
+    "min": -40,
+    "max": 20,
+    "value": 0.5
+  },
+  "/label12": {
+    "stringValue": "Load Preset 5",
+    "value": 0
+  },
+  "/label13": {
+    "stringValue": "Load Preset 6",
+    "value": 0
+  },
+  "/label10": {
+    "stringValue": "Load Preset 3",
+    "value": 0
+  },
+  "/label11": {
+    "stringValue": "Load Preset 4",
+    "value": 0
+  },
+  "/label16": {
+    "stringValue": "Start",
+    "value": 0
+  },
+  "/label17": {
+    "stringValue": "Speed A (mm/min)",
+    "value": 0
+  },
+  "/Speed1": {"text": "150"},
+  "/Speed2": {"text": "400"},
+  "/label14": {
+    "stringValue": "Numbers of Solution",
+    "value": 0
+  },
+  "/label15": {
+    "stringValue": "Beaker",
+    "value": 0
+  },
+  "/Speed3": {"text": "100"},
+  "/label18": {
+    "stringValue": "Repeat",
+    "value": 0
+  },
+  "/label19": {
+    "stringValue": "Richard Li",
+    "value": 0
+  },
+  "/Repeat": {"text": "20"},
+  "/label9": {
+    "stringValue": "Load Preset 2",
+    "value": 0
+  },
+  "/label6": {
+    "stringValue": "Drying Time #2 (s)",
+    "value": 0
+  },
+  "/timeTop3": {"text": "5"},
+  "/label5": {
+    "stringValue": "Drying Time #1 (s)",
+    "value": 0
+  },
+  "/timeTop1": {"text": "3"},
+  "/label8": {
+    "stringValue": "Load Preset 1",
+    "value": 0
+  },
+  "/timeTop2": {"text": "0"},
+  "/label7": {
+    "stringValue": "Drying Time #3 (s)",
+    "value": 0
+  },
+  "/NumbersOfSolution": {"value": 3},
+  "/label20": {
+    "stringValue": "Position (mm)",
+    "value": 0
+  },
+  "/label23": {
+    "stringValue": "Tube",
+    "value": 0
+  },
+  "/label24": {
+    "stringValue": "Save Preset 1",
+    "value": 0
+  },
+  "/label21": {
+    "stringValue": "Speed B (mm/min)",
+    "value": 0
+  },
+  "/label22": {
+    "stringValue": "Speed C (mm/min)",
+    "value": 0
+  },
+  "/Type": {"value": 1},
+  "/label2": {
+    "stringValue": "Time in Solution A (s)",
+    "value": 0
+  },
+  "/label27": {
+    "stringValue": "Save Preset 4",
+    "value": 0
+  },
+  "/label28": {
+    "stringValue": "Save Preset 5",
+    "value": 0
+  },
+  "/label1": {
+    "stringValue": "Dip Coater Control",
+    "value": 0
+  },
+  "/timeBottom3": {"text": "0"},
+  "/label25": {
+    "stringValue": "Save Preset 2",
+    "value": 0
+  },
+  "/label4": {
+    "stringValue": "Time in Solution C (s)",
+    "value": 0
+  },
+  "/label3": {
+    "stringValue": "Time in Solution B (s)",
+    "value": 0
+  },
+  "/label26": {
+    "stringValue": "Save Preset 3",
+    "value": 0
+  },
+  "/label29": {
+    "stringValue": "Save Preset 6",
+    "value": 0
+  },
+  "/timeBottom2": {"text": "4"},
+  "/timeBottom1": {"text": "0"}
+}

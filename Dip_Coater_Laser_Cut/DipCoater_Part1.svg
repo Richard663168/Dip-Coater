@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1728 864" style="enable-background:new 0 0 1728 864;" xml:space="preserve">
+<style type="text/css">
+	.Drop_x0020_Shadow{fill:none;}
+	.Round_x0020_Corners_x0020_2_x0020_pt{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.Live_x0020_Reflect_x0020_X{fill:none;}
+	.Bevel_x0020_Soft{fill:url(#SVGID_1_);}
+	.Dusk{fill:#FFFFFF;}
+	.Foliage_GS{fill:#FFDD00;}
+	.Pompadour_GS{fill-rule:evenodd;clip-rule:evenodd;fill:#44ADE2;}
+	.st0{fill:none;stroke:#000000;stroke-width:1.000000e-03;stroke-miterlimit:10;}
+	.st1{font-family:'Arial-Black';}
+	.st2{font-size:21px;}
+	.st3{fill:#FFFFFF;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0.7071" y2="0.7071">
+	<stop  offset="0" style="stop-color:#DEDFE3"/>
+	<stop  offset="0.1738" style="stop-color:#D8D9DD"/>
+	<stop  offset="0.352" style="stop-color:#C9CACD"/>
+	<stop  offset="0.5323" style="stop-color:#B4B5B8"/>
+	<stop  offset="0.7139" style="stop-color:#989A9C"/>
+	<stop  offset="0.8949" style="stop-color:#797C7E"/>
+	<stop  offset="1" style="stop-color:#656B6C"/>
+</linearGradient>
+<rect x="28.3" y="28.3" class="st0" width="649.1" height="657.6"/>
+<circle class="st0" cx="357.2" cy="357.2" r="65.2"/>
+<rect x="555.6" y="290.6" transform="matrix(4.379969e-11 -1 1 4.379969e-11 253.7008 968.0315)" class="st0" width="110.6" height="133.2"/>
+<text transform="matrix(1 0 0 1 54.5214 97.5496)" class="st1 st2">Platform</text>
+<polygon class="st0" points="1658.3,686 708.7,686 708.7,28.3 1658.3,28.3 1658.3,357.2 "/>
+<text transform="matrix(1 0 0 1 755.6653 90.7086)" class="st1 st2">Base Board</text>
+<path d="M357.2,357.2"/>
+<rect x="1099" y="288.3" width="137.8" height="137.8"/>
+<rect x="1111.2" y="298.7" class="st3" width="113.4" height="116.8"/>
+</svg>
