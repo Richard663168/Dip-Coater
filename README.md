@@ -87,31 +87,68 @@ Breadboards shown in the circuit diagram are not required. It is recommanded to 
 ## Assembly Instructions  
 The **Complete Dip Coater** CAD file could be used as a reference on how to assemble the dip coater.  
 1. Glue board **#3** and board **#2** onto board **#1**; Note that the back of the three pieces should not align: there is a 6mm distance between the back of board **#1** and the backs of both boards **#2** and **#3**.  
-![Asset 1](https://github.com/Richard663168/Dip-Coater/assets/111383687/456979d9-a4ce-4c2a-936a-b3ef924e1bcd)
+<p align="center">  
+<img width="1080" alt="Screen Shot 2023-09-02 at 2 01 22 AM" src="https://github.com/Richard663168/Dip-Coater/assets/111383687/f75e3e65-8c3a-413e-af7e-cb195734d7b7">  
+
+  
 2. Use sandpaper or other sanding tools to make the edge of board **#4** fit the base and screw in the **ST7789 2.4” SPI LCD**, 2 **12V push buttons**, and the **3 x 4 keypad**
 3. Glue the board **#4** onto the dip coater
-![Asset 2](https://github.com/Richard663168/Dip-Coater/assets/111383687/926be3ac-135b-43c5-adc7-4c0ec8040058)
+<p align="center">  
+<img width="966" alt="Screen Shot 2023-09-02 at 1 59 03 AM" src="https://github.com/Richard663168/Dip-Coater/assets/111383687/4bc61beb-45e2-4585-b3db-d52c412958e7">
+
 4.  Glue **Nema 17 Holder** onto the dip coater and place the **Nema 17 motor** inside
-![Asset 4@12x](https://github.com/Richard663168/Dip-Coater/assets/111383687/795a16d0-ac1d-4f70-8613-9bbca7986a63)
+<p align="center">  
+<img width="1012" alt="Screen Shot 2023-09-02 at 1 59 11 AM" src="https://github.com/Richard663168/Dip-Coater/assets/111383687/b79a3ad2-8e22-43bc-9e4b-245f071a2ec0">
+
 5. Glue boards **#5**, **#6**, and **#7** onto dip coater
-![Asset 6@12x](https://github.com/Richard663168/Dip-Coater/assets/111383687/f969e752-09bd-4437-8688-49fcd14682bd)
+<p align="center">  
+<img width="1025" alt="Screen Shot 2023-09-02 at 1 59 18 AM" src="https://github.com/Richard663168/Dip-Coater/assets/111383687/21f8faef-05d3-445d-8c0e-884937eb2966">
+
 6. Glue board **#8** onto the dip coater
-![Asset 7@12x](https://github.com/Richard663168/Dip-Coater/assets/111383687/572250c7-a2bb-48dd-be4a-bb1366dea6c7)
+<p align="center">  
+<img width="1017" alt="Screen Shot 2023-09-02 at 1 59 25 AM" src="https://github.com/Richard663168/Dip-Coater/assets/111383687/c928b5df-a921-44a7-bbf5-d0639e1354ae">
+
 7. Mount **FUYU FSL30 Mini Linear Stage Small Slide** onto board **#8** using screws
-![Asset 7@12x](https://github.com/Richard663168/Dip-Coater/assets/111383687/ecb5d449-58ed-4ba5-8df9-d45f023660bd)
+<p align="center">  
+<img width="1006" alt="Screen Shot 2023-09-02 at 1 59 34 AM" src="https://github.com/Richard663168/Dip-Coater/assets/111383687/bf5fb6e7-29bf-4d56-9f37-444f7cd1e26f">
+
 8. Connect all electronic components inside the dip coater based on the circuit diagram; USB cable and 2.1 x 5.5 power cable can come out through holes on board **#2**
 9. Connect board **#9** to the dip coater using L-shape screw brackets, making future repairs and replacements easier
-![Asset 8@12x](https://github.com/Richard663168/Dip-Coater/assets/111383687/f4df0fcc-629c-452d-8f9e-3c92304395ff)
+<p align="center">  
+<img width="1042" alt="Screen Shot 2023-09-02 at 2 06 16 AM" src="https://github.com/Richard663168/Dip-Coater/assets/111383687/2a86eb12-f963-477d-9501-c7c42ee3a4b1">
+
 10. Connect board **#10** to the dip coater using L-shape screw brackets, making future repairs and replacements easier
-![Asset 9@12x](https://github.com/Richard663168/Dip-Coater/assets/111383687/7a7d1fff-f0db-4a06-8be5-578a910b8a89)
+<p align="center">  
+<img width="1042" alt="Screen Shot 2023-09-02 at 1 59 59 AM" src="https://github.com/Richard663168/Dip-Coater/assets/111383687/4b41c9c2-da64-4b30-af51-34b0ed8caffb">
+
 11. Stick **1/2 inch OD Steel Disk** onto **Substrate Holder Connector** and **1/2 inch OD Neodymium Magnet** and a **clip** onto **Substrate Holder**
-![Asset 10@12x](https://github.com/Richard663168/Dip-Coater/assets/111383687/e89f8844-bcfe-4930-92ee-b6f91d38fd9e)
+<p align="center">  
+<img width="949" alt="Screen Shot 2023-09-02 at 2 00 06 AM" src="https://github.com/Richard663168/Dip-Coater/assets/111383687/f47c7457-2a73-4cdb-9f69-f12343682e53">
+
 12. Stick **1 inch OD Steel Disk** onto **Disk Base** and **1 inch OD Neodymium Magnet** onto **Beaker Disk**
-![Asset 11@12x](https://github.com/Richard663168/Dip-Coater/assets/111383687/411f9aa4-465e-4efb-af9f-62558674452c)
+<p align="center">  
+<img width="983" alt="Screen Shot 2023-09-02 at 2 00 17 AM" src="https://github.com/Richard663168/Dip-Coater/assets/111383687/fc2f7b9d-1340-4e4e-a160-230acbe0659d">
+
+
 13. Attach **Substrate Holder Connector**, **Substrate Holder**, **Disk Base**, and **Beaker Disk** onto the dip coater; note that **Substrate Holder** and **Beaker Disk** can be removed or reattached anytime
 <p align="center">  
-<img src=""https://github.com/Richard663168/Dip-Coater/assets/111383687/a26c49de-f02e-4f5f-89eb-ef91db1ba7ff" alt="dipcoater step 13" width="400"> 
-15. Upload Arduino program provided in this repository to **Arduino Mega Microcontroller**
-16. Download Processing and open **Dip Coater Graphic User Interface** provided in this repository to start using the dip coater
+<img width="842" alt="Screen Shot 2023-09-02 at 3 26 17 PM" src="https://github.com/Richard663168/Dip-Coater/assets/111383687/3c0d5274-19ed-4127-9ed5-ddf1d66c2cac">
 
+14. Upload Arduino program provided in this repository to **Arduino Mega Microcontroller**
+15. Download Processing and open **Dip Coater Graphic User Interface** provided in this repository to start using the dip coater
+## Using the Dip Coater
+<img width="1258" alt="Screen Shot 2023-09-02 at 3 36 10 PM" src="https://github.com/Richard663168/Dip-Coater/assets/111383687/3702c1cd-fe2f-45e5-b204-c3602f1b652a">  
+  
+* Once the Processing file is opened, **Line 77 needs to be adjusted** based on the name of the PC's USB port before runninng the program.
+* For each solution placed on the beaker disk, the user is able to choose the speed of which the substrate come out.
+* The hold time (drying time) on top and the time that substrate is submerged in solution (time in solution) can be set.
+* The number of solutions placed on the beaker disk can be set to 1, 2, or 3.
+  * If the number of solutions is selected to be 1, the substrate will only go into solution 1 repeatly.
+  * If the number of solutions is selected to be 2 or 3, the substrate will alternate among the selected solutions.
+* How deep the substrate goes into the solutions can be adjusted using the Position slider
+  * negative numbers indicate milimiters higher than the default height and positive numbers indicate milimiters lower than the default height.
+* On the right side of the control panel, the user can save and load presets.
+* Once all parameters are set and the **Start** button is clicked, the dip coater will start.
+* Physical push buttons on the dip coater are for manual calibration of the linear actuator (They are rarely needed).
+* 3 x 4 keypad is for manual calibration of the position of the beaker disk.
 
