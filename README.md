@@ -18,10 +18,12 @@ Sections in this ReadMe:
 
 [5. Assembly Instructions](#assembly-instructions)  
 
+[6. Using the Dip Coater](#using-the-dip-coater)  
+
 ## Materials  
 Links provided below are only for reference.  
 
-**Electronic Components**
+**Main Components**
 | Item | Quantity | Reference Price | Source |
 | ------------- | ------------- |------------- |------------- |
 | [Arduino Mega 2560](https://www.amazon.com/ARDUINO-MEGA-2560-REV3-A000067/dp/B0046AMGW0)| 1  | $20.99 for 1|Amazon |
@@ -35,6 +37,10 @@ Links provided below are only for reference.
 | [FUYU FSL30 Mini Linear Stage Small Slide](https://a.co/d/0F66fWm)  |  1 | $118.00 for 1 |Amazon |
 | [8-channel Bi-directional Logic Level Converter - TXB0108](https://www.adafruit.com/product/395?gclid=EAIaIQobChMIy_Wgl5aa-wIVg4zICh11Gg8HEAAYASAAEgIM5PD_BwE)|  1 | $7.95 for 1 |Adafruit Industries |
 | [12V Push Button](https://www.amazon.com/gp/product/B08ZN73P2N/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)  |  1 | $15.99 for 10 |Amazon |  
+| [1 inch OD Steel Disk](https://a.co/d/e3l3wQv)  |  1 | $18.99 for 50 |Amazon |  
+| [1/2 inch OD Steel Disk](https://a.co/d/1EjGdAq)  |  1 | $16.99 for 80 |Amazon |  
+| [1 inch OD Neodymium magnet](https://www.mcmaster.com/7048T63)  |  1 | $8.57 for 1 |McMaster-Carr |  
+| [1/2 inch OD Neodymium magnet](https://www.mcmaster.com/7048T56)  |  1 | $4.89 for 1 |McMaster-Carr |  
 
 **Other Materials**
 * 4 6mm 12" x 24" black acrylic sheets
@@ -42,6 +48,9 @@ Links provided below are only for reference.
 * Super glue
 * 1 USB cable
 * 1 2.1 x 5.5 12V power cable
+* L-shape screw brackets
+* Screws
+* Clips
   
 Black acrylic sheets could be replaced by other 6mm-thick laser cuttable materials.
 ## 3D Printing Instructions
@@ -77,13 +86,32 @@ Breadboards shown in the circuit diagram are not required. It is recommanded to 
 
 ## Assembly Instructions  
 The **Complete Dip Coater** CAD file could be used as a reference on how to assemble the dip coater.  
-1. Glue **Left Board** and **Right Board** onto **Base Board**; Note that the back of the three pieces should not align: there is a 6mm distance between the back of **Base Board** and the backs of both **Left Board** and **Right Board**.
-![Asset 1@12x 2](https://github.com/Richard663168/Dip-Coater/assets/111383687/3a995cbb-b424-4d5e-b67f-4e1e593d41d5)
-2. Use sandpaper or other sanding tools to make the edge of **Front Board** fit the base and screw in the **ST7789 2.4” SPI LCD**, 2 **12V push buttons**, and the **3 x 4 keypad**
-3. Glue the **Front Board** onto the base.
-![Asset 3@12x](https://github.com/Richard663168/Dip-Coater/assets/111383687/31587394-4859-4c5b-b44c-615c6bee8b8d)
-4.  Glue **Nema 17 Holder** onto the base and place the **Nema 17 motor** inside
+1. Glue board **#3** and board **#2** onto board **#1**; Note that the back of the three pieces should not align: there is a 6mm distance between the back of board **#1** and the backs of both boards **#2** and **#3**.  
+![Asset 1](https://github.com/Richard663168/Dip-Coater/assets/111383687/456979d9-a4ce-4c2a-936a-b3ef924e1bcd)
+2. Use sandpaper or other sanding tools to make the edge of board **#4** fit the base and screw in the **ST7789 2.4” SPI LCD**, 2 **12V push buttons**, and the **3 x 4 keypad**
+3. Glue the board **#4** onto the dip coater
+![Asset 2](https://github.com/Richard663168/Dip-Coater/assets/111383687/926be3ac-135b-43c5-adc7-4c0ec8040058)
+4.  Glue **Nema 17 Holder** onto the dip coater and place the **Nema 17 motor** inside
 ![Asset 4@12x](https://github.com/Richard663168/Dip-Coater/assets/111383687/795a16d0-ac1d-4f70-8613-9bbca7986a63)
-6. 
+5. Glue boards **#5**, **#6**, and **#7** onto dip coater
+![Asset 6@12x](https://github.com/Richard663168/Dip-Coater/assets/111383687/f969e752-09bd-4437-8688-49fcd14682bd)
+6. Glue board **#8** onto the dip coater
+![Asset 7@12x](https://github.com/Richard663168/Dip-Coater/assets/111383687/572250c7-a2bb-48dd-be4a-bb1366dea6c7)
+7. Mount **FUYU FSL30 Mini Linear Stage Small Slide** onto board **#8** using screws
+![Asset 7@12x](https://github.com/Richard663168/Dip-Coater/assets/111383687/ecb5d449-58ed-4ba5-8df9-d45f023660bd)
+8. Connect all electronic components inside the dip coater based on the circuit diagram; USB cable and 2.1 x 5.5 power cable can come out through holes on board **#2**
+9. Connect board **#9** to the dip coater using L-shape screw brackets, making future repairs and replacements easier
+![Asset 8@12x](https://github.com/Richard663168/Dip-Coater/assets/111383687/f4df0fcc-629c-452d-8f9e-3c92304395ff)
+10. Connect board **#10** to the dip coater using L-shape screw brackets, making future repairs and replacements easier
+![Asset 9@12x](https://github.com/Richard663168/Dip-Coater/assets/111383687/7a7d1fff-f0db-4a06-8be5-578a910b8a89)
+11. Stick **1/2 inch OD Steel Disk** onto **Substrate Holder Connector** and **1/2 inch OD Neodymium Magnet** and a **clip** onto **Substrate Holder**
+![Asset 10@12x](https://github.com/Richard663168/Dip-Coater/assets/111383687/e89f8844-bcfe-4930-92ee-b6f91d38fd9e)
+12. Stick **1 inch OD Steel Disk** onto **Disk Base** and **1 inch OD Neodymium Magnet** onto **Beaker Disk**
+![Asset 11@12x](https://github.com/Richard663168/Dip-Coater/assets/111383687/411f9aa4-465e-4efb-af9f-62558674452c)
+13. Attach **Substrate Holder Connector**, **Substrate Holder**, **Disk Base**, and **Beaker Disk** onto the dip coater; note that **Substrate Holder** and **Beaker Disk** can be removed or reattached anytime
+<p align="center">  
+<img src=""https://github.com/Richard663168/Dip-Coater/assets/111383687/a26c49de-f02e-4f5f-89eb-ef91db1ba7ff" alt="dipcoater step 13" width="400"> 
+15. Upload Arduino program provided in this repository to **Arduino Mega Microcontroller**
+16. Download Processing and open **Dip Coater Graphic User Interface** provided in this repository to start using the dip coater
 
 
