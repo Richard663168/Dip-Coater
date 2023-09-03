@@ -75,7 +75,7 @@ Designs are printed out using the Stratasys Elite and Stratasys Mojo with a laye
 ## Laser Cutting Instructions
 Laser Cutting files: Complete files are included in this current repository including .ai file format and .svg file format. All models were designed using Adobe Illustrator. Designs are laser cut using Epilog mini and Epilog Fusion with 6mm 12"x24" black acrylic sheets.  
 
-The labels on the designs are for illustration only. It is recommanded to delete those labels before laser cutting or the labels might be engraved onto the final product. For Epilog laser cutters, the widths of the lines for laser cutting need to be set to 0.001pt and the area for engraving need to be filled with black.
+The labels on the designs are for illustration only. It is recommanded to delete those labels before laser cutting or the labels might be engraved onto the final product. For Epilog laser cutters, the widths of the lines for laser cutting need to be set to 0.001pt and the area for engraving need to be filled black.
 
 ## Circuit Design
 
