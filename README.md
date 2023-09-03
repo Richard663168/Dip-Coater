@@ -82,7 +82,7 @@ The labels on the designs are for illustration only. It is recommanded to delete
 <p align="center">  
 <img src="https://github.com/Richard663168/Dip-Coater/assets/111383687/9f64b7ac-65f1-42dc-9353-559c79eef468" alt="dipcoater_ciruit" width="700">  
   
-Breadboards shown in the circuit diagram are not required. It is recommanded to use solder or heat shrinking tubes to connect wires to electronic compoenents and other wires in order to secure the connections.
+Breadboards shown in the circuit diagram are not required. It is recommanded to use solder or heat shrinking tubes to connect wires to electronic components and other wires in order to secure the connections.
 
 ## Assembly Instructions  
 The **Complete Dip Coater** CAD file could be used as a reference on how to assemble the dip coater.  
