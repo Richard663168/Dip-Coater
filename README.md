@@ -86,13 +86,13 @@ Breadboards shown in the circuit diagram are not required. It is recommanded to 
 
 ## Assembly Instructions  
 The **Complete Dip Coater** CAD file could be used as a reference on how to assemble the dip coater.  
-1. Glue board **#3** and board **#2** onto board **#1**; Note that the back of the three pieces should not align: there is a 6mm distance between the back of board **#1** and the backs of both boards **#2** and **#3**.  
+1. Glue board **#3** and board **#2** onto board **#1**; Note that the back of the three pieces should not align: there is a 6mm distance between the back of board **#1** and the backs of both boards **#2** and **#3**
 <p align="center">  
 <img width="1080" alt="Screen Shot 2023-09-02 at 2 01 22 AM" src="https://github.com/Richard663168/Dip-Coater/assets/111383687/f75e3e65-8c3a-413e-af7e-cb195734d7b7">  
 
   
 2. Use sandpaper or other sanding tools to make the edge of board **#4** fit the base and screw in the **ST7789 2.4” SPI LCD**, 2 **12V push buttons**, and the **3 x 4 keypad**
-3. Glue the board **#4** onto the dip coater
+3. Glue board **#4** onto the dip coater
 <p align="center">  
 <img width="966" alt="Screen Shot 2023-09-02 at 1 59 03 AM" src="https://github.com/Richard663168/Dip-Coater/assets/111383687/4bc61beb-45e2-4585-b3db-d52c412958e7">
 
