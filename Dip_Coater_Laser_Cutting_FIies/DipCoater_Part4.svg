@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1728 864" style="enable-background:new 0 0 1728 864;" xml:space="preserve">
+<style type="text/css">
+	.Drop_x0020_Shadow{fill:none;}
+	.Round_x0020_Corners_x0020_2_x0020_pt{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.Live_x0020_Reflect_x0020_X{fill:none;}
+	.Bevel_x0020_Soft{fill:url(#SVGID_1_);}
+	.Dusk{fill:#FFFFFF;}
+	.Foliage_GS{fill:#FFDD00;}
+	.Pompadour_GS{fill-rule:evenodd;clip-rule:evenodd;fill:#44ADE2;}
+	.st0{fill:none;stroke:#000000;stroke-width:1.000000e-03;stroke-miterlimit:10;}
+	.st1{font-family:'Arial-Black';}
+	.st2{font-size:21px;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0.7071" y2="0.7071">
+	<stop  offset="0" style="stop-color:#DEDFE3"/>
+	<stop  offset="0.1738" style="stop-color:#D8D9DD"/>
+	<stop  offset="0.352" style="stop-color:#C9CACD"/>
+	<stop  offset="0.5323" style="stop-color:#B4B5B8"/>
+	<stop  offset="0.7139" style="stop-color:#989A9C"/>
+	<stop  offset="0.8949" style="stop-color:#797C7E"/>
+	<stop  offset="1" style="stop-color:#656B6C"/>
+</linearGradient>
+<circle class="st0" cx="178.6" cy="283.5" r="5.7"/>
+<circle class="st0" cx="178.6" cy="340.2" r="5.7"/>
+<circle class="st0" cx="462" cy="283.5" r="5.7"/>
+<circle class="st0" cx="462" cy="340.2" r="5.7"/>
+<circle class="st0" cx="745.5" cy="283.5" r="5.7"/>
+<circle class="st0" cx="745.5" cy="340.2" r="5.7"/>
+<polygon class="st0" points="0,0 0,623.6 989.3,623.6 989.3,170.1 1102.7,170.1 1102.7,0 "/>
+<text transform="matrix(1 0 0 1 577.8683 523.4451)" class="st1 st2">Linear Actuator Support Board</text>
+</svg>
