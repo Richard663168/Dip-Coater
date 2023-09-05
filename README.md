@@ -7,7 +7,7 @@
 **Animated Dip Coater Assembly Video**: https://youtu.be/RGj2P8bEvw4?si=eDrItM7gs5JFvn3  
 
   
-Sections in this ReadMe:  
+Sections in this README:  
 
 [1. Materials](#materials)
 
