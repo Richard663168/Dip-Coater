@@ -35,7 +35,7 @@ Links provided below are only for reference.
 | [3x4 Matrix Keypad](https://www.adafruit.com/product/3845) |  1 | $6.50 for 1 |Adafruit Industries |
 | [Screw Terminal Block Breakout Module for Arduino Mega](https://a.co/d/3ki64ex)  |  1 | $32.00 for 1 |Amazon |
 | [FUYU FSL30 Mini Linear Stage Small Slide](https://a.co/d/0F66fWm)  |  1 | $118.00 for 1 |Amazon |
-| [8-channel Bi-directional Logic Level Converter - TXB0108](https://www.adafruit.com/product/395?gclid=EAIaIQobChMIy_Wgl5aa-wIVg4zICh11Gg8HEAAYASAAEgIM5PD_BwE)|  1 | $7.95 for 1 |Adafruit Industries |
+| [8-channel Bi-directional Logic Level Converter](https://www.adafruit.com/product/395?gclid=EAIaIQobChMIy_Wgl5aa-wIVg4zICh11Gg8HEAAYASAAEgIM5PD_BwE)|  1 | $7.95 for 1 |Adafruit Industries |
 | [12V Push Button](https://www.amazon.com/gp/product/B08ZN73P2N/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)  |  1 | $15.99 for 10 |Amazon |  
 | [1 inch OD Steel Disk](https://a.co/d/e3l3wQv)  |  1 | $18.99 for 50 |Amazon |  
 | [1/2 inch OD Steel Disk](https://a.co/d/1EjGdAq)  |  1 | $16.99 for 80 |Amazon |  
