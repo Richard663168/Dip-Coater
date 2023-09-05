@@ -1,5 +1,6 @@
 # Dip-Coater
-Design of an Inexpensive, Microcontroller-based Dipcoater for Automated Thin Film Deposition  
+**Design of an Inexpensive, Microcontroller-based Dip Coater for Automated Thin Film Deposition**  
+
 <p align="center">  
 <img src="https://github.com/Richard663168/Dip-Coater/assets/111383687/2ffeb6db-35d4-4c3a-a76d-050c42e80296" alt="dipcoater" width="400">  
   
@@ -149,6 +150,6 @@ The **Complete Dip Coater** CAD file could be used as a reference on how to asse
   * negative numbers indicate milimiters higher than the default height and positive numbers indicate milimiters lower than the default height.
 * On the right side of the control panel, the user can save and load presets.
 * Once all parameters are set and the **Start** button is clicked, the dip coater will start.
-* Physical push buttons on the dip coater are for manual calibration of the linear actuator (They are rarely needed).
-* 3 x 4 keypad is for manual calibration of the position of the beaker disk.
+* **12V push buttons** on the dip coater are for manual calibration of the linear actuator (They are rarely needed).
+* **3 x 4 keypad** is for manual calibration of the position of the beaker disk.
 
