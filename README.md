@@ -140,7 +140,7 @@ The **Complete Dip Coater** CAD file could be used as a reference on how to asse
 ## Using the Dip Coater
 <img width="1258" alt="Screen Shot 2023-09-02 at 3 36 10 PM" src="https://github.com/Richard663168/Dip-Coater/assets/111383687/3702c1cd-fe2f-45e5-b204-c3602f1b652a">  
   
-* Once the Processing file is opened, **Line 77 needs to be adjusted** based on the name of the PC's USB port before running the program.
+* Once the Processing file is opened, **Line 94 needs to be adjusted** based on the name of the PC's USB port before running the program.
 * For each solution placed on the beaker disk, the user is able to choose the speed of which the substrate come out.
 * The hold time (drying time) on top and the time that substrate is submerged in solution (time in solution) can be set.
 * The number of solutions placed on the beaker disk can be set to 1, 2, or 3.
