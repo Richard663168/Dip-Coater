@@ -1,0 +1,43 @@
+{
+  "/Speed": {
+    "min": 0,
+    "max":250,
+    "value": 10
+  },
+  "/timeTop3": {
+    "min": 0,
+    "max": 100,
+    "value": 0
+  },
+  "/timeTop1": {
+    "min": 0,
+    "max": 100,
+    "value": 2
+  },
+  "/timeTop2": {
+    "min": 0,
+    "max": 100,
+    "value": 10
+  },
+  "/timeBottom3": {
+    "min": 0,
+    "max": 40,
+    "value": 0
+  },
+  "/NumbersOfSolution": {"value": 2},
+  "/timeBottom2": {
+    "min": 0,
+    "max": 40,
+    "value": 0
+  },
+  "/Repeat": {
+    "min": 1,
+    "max": 150,
+    "value": 10
+  },
+  "/timeBottom1": {
+    "min": 0,
+    "max": 40,
+    "value": 0
+  }
+}
