@@ -137,8 +137,8 @@ The **Complete Dip Coater** CAD file could be used as a reference on how to asse
 
 14. Upload Arduino program provided in this repository to **Arduino Mega Microcontroller**
 15. Download Processing and open **Dip Coater Graphic User Interface** provided in this repository to start using the dip coater
-## Using the Dip Coater
-<img width="1258" alt="Screen Shot 2023-09-02 at 3 36 10 PM" src="https://github.com/Richard663168/Dip-Coater/assets/111383687/3702c1cd-fe2f-45e5-b204-c3602f1b652a">  
+## Using the Dip Coater<img width="1262" alt="Screenshot 2025-05-30 at 8 23 23 PM" src="https://github.com/user-attachments/assets/488f054c-703d-4bf0-8c7f-6b7234d4022d" />
+ 
   
 * Once the Processing file is opened, **Line 94 needs to be adjusted** based on the name of the PC's USB port before running the program.
 * For each solution placed on the beaker disk, the user is able to choose the speed of which the substrate come out.
