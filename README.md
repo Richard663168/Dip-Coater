@@ -147,9 +147,11 @@ The **Complete Dip Coater** CAD file could be used as a reference on how to asse
   * If the number of solutions is selected to be 1, the substrate will only go into solution 1 repeatly.
   * If the number of solutions is selected to be 2 or 3, the substrate will alternate among the selected solutions.
 * How deep the substrate goes into the solutions can be adjusted using the Position slider
-  * negative numbers indicate milimiters higher than the default height and positive numbers indicate milimiters lower than the default height.
+  * Negative numbers indicate milimiters higher than the default height and positive numbers indicate milimiters lower than the default height.
+* The size of the substrate can be set using the Substrate Length text field.
 * On the right side of the control panel, the user can save and load presets.
 * Once all parameters are set and the **Start** button is clicked, the dip coater will start.
-* **12V push buttons** on the dip coater are for manual calibration of the linear actuator (They are rarely needed).
+  * Estimated time until completion will be displayed on the bottom left corner of the GUI
+* **12V push buttons** on the dip coater are for manual calibration of the linear actuator (They are rarely needed).  
 * **3 x 4 keypad** is for manual calibration of the position of the beaker disk.
-
+  * By inputing the desired rotating angle in degrees and hitting Enter, the beaker disk will rotate to the corresponding position.
