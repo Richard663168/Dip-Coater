@@ -26,7 +26,7 @@ Links provided below are only for reference.
 
 **Main Components**
 | Item | Quantity | Reference Price | Source |
-| ------------- | ------------- |------------- |------------- |
+| ----------------------- | --------------- |---------------- |---------------- |
 | [Arduino Mega 2560](https://www.amazon.com/ARDUINO-MEGA-2560-REV3-A000067/dp/B0046AMGW0)| 1  | $20.99 for 1|Amazon |
 | ST7789 2.4” SPI LCD | 1  | $6.99 for 1| Taobao|
 | [Nema 17 Stepper Motor](https://www.amazon.com/dp/B07THK76QQ/ref=twister_B07ZVLYL25?_encoding=UTF8&psc=1)  |1  | $10.99 for 1|Amazon|
@@ -136,11 +136,11 @@ The **Complete Dip Coater** CAD file could be used as a reference on how to asse
 <img width="842" alt="Screen Shot 2023-09-02 at 3 26 17 PM" src="https://github.com/Richard663168/Dip-Coater/assets/111383687/3c0d5274-19ed-4127-9ed5-ddf1d66c2cac">
 
 14. Upload Arduino program provided in this repository to **Arduino Mega Microcontroller**
-15. Download Processing and open **Dip Coater Graphic User Interface** provided in this repository to start using the dip coater
+15. Download Processing and open **Dip_Coater_2_GUI** provided in this repository to start using the dip coater
 ## Using the Dip Coater<img width="1262" alt="Screenshot 2025-05-30 at 8 23 23 PM" src="https://github.com/user-attachments/assets/488f054c-703d-4bf0-8c7f-6b7234d4022d" />
  
   
-* Once the Processing file is opened, **Line 94 needs to be adjusted** based on the name of the PC's USB port before running the program.
+* Once the Processing file is opened, **Line 69 needs to be adjusted** based on the name of the PC's USB port before running the program.
 * For each solution placed on the beaker disk, the user is able to choose the speed of which the substrate come out.
 * The hold time (drying time) on top and the time that substrate is submerged in solution (time in solution) can be set.
 * The number of solutions placed on the beaker disk can be set to 1, 2, or 3.
